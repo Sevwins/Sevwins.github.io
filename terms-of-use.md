@@ -1,6 +1,3 @@
-<!-- Copy and paste the converted output. -->
-
-
 **Website Terms of Use**
 
 **Version 1.1**
