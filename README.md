@@ -8,7 +8,8 @@
 
 
 ## Links
-- [Demo App](demo.sevwins.com)
-- [App Login](app.sevwins.com)
+- [Website](https://www.sevwins.com)
+- [Demo App](https://demo.sevwins.com)
+- [App Login](https://app.sevwins.com)
 - Download iOS App (coming soon)
 - Download Android App (coming soon)
