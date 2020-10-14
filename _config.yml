@@ -1,5 +1,5 @@
-theme: jekyll-theme-slate
+theme: primer
 title: Sevwins
-description: Files
+description:
 show_downloads: "true"
 google_analytics:
