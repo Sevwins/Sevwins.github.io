@@ -14,5 +14,5 @@
 - Download iOS App (coming soon)
 - Download Android App (coming soon)
 
-Date: {%page.date%}
-{% site.pages %}
+Date: {{page.date}}
+{{ site.pages }}
