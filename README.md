@@ -13,3 +13,6 @@
 - [App Login](https://app.sevwins.com)
 - Download iOS App (coming soon)
 - Download Android App (coming soon)
+
+Date: {%page.date%}
+{% site.pages %}
