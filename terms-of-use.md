@@ -1,8 +1,8 @@
-**Website Terms of Use**
+**SEVWINS INC. - TERMS OF USE**
 
 **Version 1.2**
 
-**Last revised on: September 9, 2020**
+**Last Updated: 09/09/2020**
 
 The website and applications located at sevwins.com (the “**Site**”) is a copyrighted work belonging to Sevwins Inc. (“**Company**”, “**us**”, “**our**”, and “**we**”).  Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 

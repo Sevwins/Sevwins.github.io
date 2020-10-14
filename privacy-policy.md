@@ -1,8 +1,8 @@
-**SEVWINS INC.**
+**SEVWINS INC. - PRIVACY POLICY**
 
-**PRIVACY POLICY**
+**Version 1.2**
 
-**Last Updated: 04/28/2020**
+**Last Updated: 10/13/2020**
 
 This privacy policy ("**Policy**") describes how Sevwins Inc. and its related companies ("**Company**") collect, use and share personal information of consumer users of this website, sevwins.com (the "**Site**"). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
@@ -42,19 +42,17 @@ We use your personal information as follows:
 
 We may share personal information as follows:
 
-- We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
-
 - We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
 
 - We may share personal information for legal, protection, and safety purposes.
 
-o We may share information to comply with laws.
+- We may share information to comply with laws.
 
-o We may share information to respond to lawful requests and legal processes.
+- We may share information to respond to lawful requests and legal processes.
 
-o We may share information to protect the rights and property of Sevwins Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+- We may share information to protect the rights and property of Sevwins Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
 
-o We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
+- We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
 
 - We may share information with those who need it to do work for us.
 
