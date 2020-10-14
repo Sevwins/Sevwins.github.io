@@ -1,7 +1,7 @@
 ## Sevwins Files
 
-- [Terms of Use](files/terms-of-use.md)
-- [Privacy Policy](files/privacy-policy.md)
+- [Terms of Use](terms-of-use.md)
+- [Privacy Policy](privacy-policy.md)
 
 ## Contact Support
 - [support@sevwins.com](mailto:support@sevwins.com)
