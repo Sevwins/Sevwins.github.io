@@ -4,6 +4,9 @@ _It might take you an hour to run through some bubble tutorials. Don’t spend m
 If you don’t get everything completed, be prepared to explain why you picked the completed items based on some prioritization logic.
 If Bubble is too much of a learning curve then focus on the other exercises so I can understand how you approach prioritizing your workload._
 
+
+**Before you start, anticipate how long it will take to complete and [schedule a follow up meeting](https://calendly.com/jr-sevwins/interview) with John to review your work.**
+
 Email: [john@sevwins.com](mailto:john@sevwins.com) with questions
 
 
