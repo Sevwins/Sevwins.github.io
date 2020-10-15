@@ -125,7 +125,7 @@ You get the following payload representing schedule configurations
 
 **Integration**
 
-POST the payload to a test REST API endpoint such as [Requestbin](Requestbin.com) to replicate sending the payload to a 3rd party system
+POST the payload to a test REST API endpoint such as [Requestbin](https://requestbin.com) to replicate sending the payload to a 3rd party system
 
 **Share**
 
