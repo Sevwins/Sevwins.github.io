@@ -3,9 +3,9 @@
 _It might take you an hour to run through some bubble tutorials. Don’t spend more than 8 hours on the total exercise. This is the max I would expect anyone to contribute to a development interview test.
 If you don’t get everything completed, be prepared to explain why you picked the completed items based on some prioritization logic.
 If Bubble is too much of a learning curve then focus on the other exercises so I can understand how you approach prioritizing your workload._
-___
-Before you start, anticipate how long it will take to complete and schedule a follow up [meeting](https://calendly.com/jr-sevwins/interview) with John to review your work.
-___
+
+**Before you start, anticipate how long it will take to complete and schedule a follow up [meeting](https://calendly.com/jr-sevwins/interview) with John to review your work.**
+
 Email: [john@sevwins.com](mailto:john@sevwins.com) with questions
 
 
